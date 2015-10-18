@@ -1,0 +1,64 @@
+/id 1
+	/first 9
+	
+/id 2
+	/Lotus Hello again!
+
+/id 3 
+	/me *nods*
+	/checkquest Find Lotus's lost memories
+	/next 4, 13, 12
+
+/id 4
+	/Lotus If you were a colour, what one would you be?
+	/options 3
+	/next 5, 6, 7
+	Green
+	Red
+	Blue
+
+/id 5
+	/Lotus Oh... That's terrible
+	/exit
+	
+/id 6
+	/Lotus Oh... I like you, but not enough son..
+	/exit
+
+/id 7
+	/Lotus Oh... Luckily I have just the joyness for ya!
+	
+/id 8
+	/Lotus I need you to find my lost memories. I can't remember where I put them.
+	/givequest Find Lotus's lost memories
+	/exit
+
+/id 9
+	/Lotus Hey, havn't seen you around here before.
+	
+/id 10
+	/me Well... I'm new. I'm a traveler... I think.
+	
+/id 11
+	/Lotus Just be careful. I hear the city's forces and the rebels are going at it.
+	/exit
+	
+/id 12
+	/Lotus Well done on that quest. I'm proud to call you my son.
+	/exit
+	
+/id 13
+	/Lotus Please hurry. I can't even.. I can't even fathom what kind of horrors my missing memories hold... I just can't..
+	/exit
+	
+/quest 1
+	/title Find Lotus's lost memories
+	/description Lotus has asked you to find his lost memory. He seemed to of left it in his safe and forgot the password.
+	/items Blarg 5
+	/rewards Blarg 2
+	
+/quest 2
+	/title Sleep on Lotus's couch
+	/rewards Nugg 2
+	/description Lotus has asked you to sleep on his couch. He needs a customer to attest to it's supreme comfort and ability to replenish your soul.
+	/items Nugg 5

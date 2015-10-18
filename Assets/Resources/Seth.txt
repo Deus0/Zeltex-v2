@@ -1,0 +1,39 @@
+/id 1
+	/first 2
+	/next 4
+	/Seth Yo.
+	
+/id 2
+	/Seth Come back to me when you are older kid.
+	
+/id 3
+	/me gah..
+	/exit
+	
+/id 4 
+	/me Yo.
+	/checkquest Get away from Seth!
+	/next 5, 8, 9
+
+/id 5 
+	/Seth Well done child. You have grown immensely.
+	
+/id 6
+	/me Umm...?
+	
+/id 7	
+	/Seth Well I have just the quest for  you now!
+	/givequest Get away from Seth!
+	/exit
+
+/id 8	
+	/Seth Quickly! Away with you!! RAWR!
+	/exit
+	
+/id 9	
+	/Seth Well done in escaping my wrath, child.
+	/exit
+	
+/quest 1
+	/title Get away from Seth!
+	/description Seth has asked you to never talk to him again.

@@ -1,0 +1,18 @@
+<Name>Summon Minion
+<ToolTip>
+<Fun>0
+<SpawnSound>0
+<TextureId>5
+<ModelId>0
+<SpawnId>5
+<Stat>Mana
+<Cost>30
+<CoolDown>15
+<Animation>Shooting
+<Damage>0
+<Range>0
+<Speed>400
+<LifeTime>300
+<Size>1
+<CastTime>0
+<IsInstant>False

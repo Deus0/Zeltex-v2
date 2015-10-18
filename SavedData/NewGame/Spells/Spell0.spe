@@ -1,0 +1,19 @@
+<Name>Fireball
+<ToolTip>Feirce fire pours out of your soul, burning all those who challenge your strength in magic.
+<Fun>0
+<SpawnSound>0
+<TextureId>0
+<ModelId>0
+<SpawnId>0
+<Stat>Mana
+<Cost>1
+<CoolDown>1
+<Animation>Shooting
+<Damage>25
+<Range>0
+<Speed>500
+<LifeTime>1
+<Size>1
+<CastTime>1
+<IsInstant>False
+<Effect>0

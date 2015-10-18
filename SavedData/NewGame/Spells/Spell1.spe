@@ -1,0 +1,19 @@
+<Name>Ignite
+<ToolTip>A projectile spell. It is created using mana. Upon collision, it deals 5 damage. Then it causes 3 damage every 3 seconds over 15 seconds.q
+<Fun>0
+<SpawnSound>0
+<TextureId>0
+<ModelId>0
+<SpawnId>0
+<Stat>Mana
+<Cost>10
+<CoolDown>1.5
+<Animation>Shooting
+<Damage>1
+<Range>0
+<Speed>0
+<LifeTime>1
+<Size>1
+<CastTime>1.5
+<IsInstant>True
+<Effect>0

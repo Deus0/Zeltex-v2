@@ -1,0 +1,19 @@
+<Name>FrostBolt
+<ToolTip>A Frost Projectile Spell. Be careful, it may be too cool for you too handle.
+<Fun>0
+<SpawnSound>0
+<TextureId>1
+<ModelId>0
+<SpawnId>1
+<Stat>Mana
+<Cost>10
+<CoolDown>2
+<Animation>Shooting
+<Damage>10
+<Range>0
+<Speed>300
+<LifeTime>1
+<Size>1
+<CastTime>0
+<IsInstant>False
+<Effect>3
