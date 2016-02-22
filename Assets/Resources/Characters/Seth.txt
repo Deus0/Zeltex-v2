@@ -1,0 +1,64 @@
+/id 1
+/first 2
+/next 4
+/Seth Yo.
+/execute ImpulseSphere.Impulse.ApplyImpulse
+/completequest Find Lotus's lost memories
+/id 2
+/Seth Come back to me when you are older kid.
+/id 3
+gah..
+/exit
+	
+/id 4 
+Yo.
+/questname Get away from Seth!
+/noquest 5
+/unfinishedquest 8
+/hascompletedquest 9
+/handedinquest 10
+/id 5 
+/Seth Well done child. You have grown immensely.
+/id 6
+Umm...?
+/id 7
+/Seth Well I have just the quest for  you now!
+/givequest Get away from Seth!
+/exit
+		
+/id 8
+/Seth Quickly! Away with you!! RAWR!
+/exit
+		
+/id 9
+/Seth Well done in escaping my wrath, child. Here is some fresh money and lovely salad.
+/exit
+		
+/id 10
+/Seth Hmm, what ya need? Right click to trade. But I bet you knew that!
+/exit
+	
+/quest Get away from Seth!
+/description Seth has asked you to never talk to him again.
+/leavezone Seth's Zone
+/items Seth's Hat 2
+/reward Seth's Soul
+/reward Money 5
+/item Seth's Soul
+/description It seems to be useless
+/texture Burn
+/stats
+sympathy 5
+/statdata Allows the user to feel more emotions towards their prey
+passion 3
+/statdata Helps motivate the user towards their goals
+		
+/item Seth's Hat
+/description Stinky hat
+/quantity 4
+/texture Frostball
+/buyvalue 2
+/sellvalue 4
+/stats
+stench 4
+/statdata Repels possible enemies from the user.

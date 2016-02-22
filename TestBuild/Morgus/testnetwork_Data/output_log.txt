@@ -1,0 +1,336 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780M    (ID=0x119f)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.141 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780M    (ID=0x119f)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.046 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\System.dll (this message is harmless)
+Compositor failed to initialize.
+ 
+(Filename:  Line: 48)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 248)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Update() was called by Unity. Scene is loaded. Let's connect to the Photon Master Server. Calling: PhotonNetwork.ConnectUsingSettings();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2784 -> priority: 1 
+  Thread -> id: 12a8 -> priority: 1 
+[VRDevice] Successfully created device oculus.
+Compositor failed to initialize.
+ 
+(Filename:  Line: 48)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 248)
+
+Platform assembly: C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Managed\System.dll (this message is harmless)
+Compositor failed to initialize.
+ 
+(Filename:  Line: 48)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 248)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Update() was called by Unity. Scene is loaded. Let's connect to the Photon Master Server. Calling: PhotonNetwork.ConnectUsingSettings();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d88 -> priority: 1 
+  Thread -> id: 133c -> priority: 1 
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one. Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[VRDevice] Successfully created device oculus.
+Compositor failed to initialize.
+ 
+(Filename:  Line: 48)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 248)
+
+OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Joined the room!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Refreshing Inventory Gui: 4.282916
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IsolatedStorageException: Could not find file "C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Resources\PlayerSaveFile.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenText (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.LoadCharacter () [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[])
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32)
+NetworkSpawner:CreatePlayerObject()
+NetworkSpawner:OnJoinedRoom()
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[])
+NetworkingPeer:OnEvent(EventData)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update()
+ 
+(Filename:  Line: -1)
+
+OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Joined the room!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Refreshing Inventory Gui: 3.337138
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IsolatedStorageException: Could not find file "C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Resources\PlayerSaveFile.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenText (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.LoadCharacter () [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[])
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32)
+NetworkSpawner:CreatePlayerObject()
+NetworkSpawner:OnJoinedRoom()
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[])
+NetworkingPeer:OnEvent(EventData)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update()
+ 
+(Filename:  Line: -1)
+
+Refreshing Inventory Gui: 3.337138
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IsolatedStorageException: Could not find file "C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Resources\PlayerSaveFile.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenText (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.LoadCharacter () [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject)
+NetworkingPeer:OnEvent(EventData)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update()
+ 
+(Filename:  Line: -1)
+
+Refreshing Inventory Gui: 13.62519
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IsolatedStorageException: Could not find file "C:\Zeltex\TestBuild\Morgus\testnetwork_Data\Resources\PlayerSaveFile.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenText (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.LoadCharacter () [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject)
+NetworkingPeer:OnEvent(EventData)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update()
+ 
+(Filename:  Line: -1)
+

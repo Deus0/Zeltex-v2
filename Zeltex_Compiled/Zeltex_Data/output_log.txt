@@ -1,0 +1,405 @@
+Mono path[0] = 'C:/Zeltex/Zeltex_Compiled/Zeltex_Data/Managed'
+Mono path[1] = 'C:/Zeltex/Zeltex_Compiled/Zeltex_Data/Mono'
+Mono config path = 'C:/Zeltex/Zeltex_Compiled/Zeltex_Data/Mono/etc'
+PlayerConnection initialized from C:/Zeltex/Zeltex_Compiled/Zeltex_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55408
+Multi-casting "[IP] 192.168.196.193 [Port] 55408 [Flags] 2 [Guid] 2540258306 [EditorId] 1170836880 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-N6PBMOJ) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.196.193:55408]
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780M    (ID=0x119f)
+    Vendor:   NVIDIA
+    VRAM:     4026 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.166 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Zeltex\Zeltex_Compiled\Zeltex_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandler?) has a different serialization layout when loading. (Read 32 bytes but expected 36 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+A script behaviour (probably VertHandleGizmo?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Serialize/SerializedFile.cpp Line: 1682)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1514 -> priority: 1 
+  Thread -> id: 12ac -> priority: 1 
+OnJoinedLobby
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+LobbyManager:OnJoinedLobby() (at C:\Zeltex\Assets\Scripts\NetworkingInterfaces\LobbyManager.cs:202)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2103)
+NetworkingPeer:OnOperationResponse(OperationResponse) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1404)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/NetworkingInterfaces/LobbyManager.cs Line: 202)
+
+Joined the room: Deus:DEFAULT ROOM NAME
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+PlayerSpawner:OnCreatedRoom() (at C:\Zeltex\Assets\Scripts\NetworkingInterfaces\PlayerSpawner.cs:111)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2103)
+NetworkingPeer:GameEnteredOnGameServer(OperationResponse) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:977)
+NetworkingPeer:OnOperationResponse(OperationResponse) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1322)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/NetworkingInterfaces/PlayerSpawner.cs Line: 111)
+
+OnJoinedRoom: DEFAULT ROOM NAME
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+LobbyManager:OnJoinedRoom() (at C:\Zeltex\Assets\Scripts\NetworkingInterfaces\LobbyManager.cs:213)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2103)
+NetworkingPeer:OnEvent(EventData) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1904)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/NetworkingInterfaces/LobbyManager.cs Line: 213)
+
+Joined the room DEFAULT ROOM NAME: Deus:1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+PlayerSpawner:OnJoinedRoom() (at C:\Zeltex\Assets\Scripts\NetworkingInterfaces\PlayerSpawner.cs:103)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2103)
+NetworkingPeer:OnEvent(EventData) (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1904)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Zeltex\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/NetworkingInterfaces/PlayerSpawner.cs Line: 103)
+
+Firing bullet :3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CombatSystem.Shooter:Shoot() (at C:\Zeltex\Assets\Scripts\Combat\Shooter.cs:54)
+CharacterSystem.Player:HandleInput() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:51)
+CharacterSystem.Player:Update() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:28)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/Combat/Shooter.cs Line: 54)
+
+Firing bullet :3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CombatSystem.Shooter:Shoot() (at C:\Zeltex\Assets\Scripts\Combat\Shooter.cs:54)
+CharacterSystem.Player:HandleInput() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:51)
+CharacterSystem.Player:Update() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:28)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/Combat/Shooter.cs Line: 54)
+
+Firing bullet :3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CombatSystem.Shooter:Shoot() (at C:\Zeltex\Assets\Scripts\Combat\Shooter.cs:54)
+CharacterSystem.Player:HandleInput() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:51)
+CharacterSystem.Player:Update() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:28)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/Combat/Shooter.cs Line: 54)
+
+Firing bullet :3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CombatSystem.Shooter:Shoot() (at C:\Zeltex\Assets\Scripts\Combat\Shooter.cs:54)
+CharacterSystem.Player:HandleInput() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:51)
+CharacterSystem.Player:Update() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:28)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/Combat/Shooter.cs Line: 54)
+
+Firing bullet :3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CombatSystem.Shooter:Shoot() (at C:\Zeltex\Assets\Scripts\Combat\Shooter.cs:54)
+CharacterSystem.Player:HandleInput() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:51)
+CharacterSystem.Player:Update() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:28)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/Combat/Shooter.cs Line: 54)
+
+Firing bullet :3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CombatSystem.Shooter:Shoot() (at C:\Zeltex\Assets\Scripts\Combat\Shooter.cs:54)
+CharacterSystem.Player:HandleInput() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:51)
+CharacterSystem.Player:Update() (at C:\Zeltex\Assets\Scripts\CharacterSystem\Scripts\Player.cs:28)
+ 
+(Filename: C:/Zeltex/Assets/Scripts/Combat/Shooter.cs Line: 54)
+

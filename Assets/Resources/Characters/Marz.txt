@@ -1,0 +1,42 @@
+/item Soul
+/texture DarkBall
+/stats
+Desire,10
+/statdata Lets you not die for longer
+
+/item Marz's Bracelet
+/texture Burn
+/stats
+Lifesteal,2
+Strength,3
+/characterstats
+Health,0,0
+/statdata Lets you not die for longer
+Mana,0,0
+/statdata Allows you to manapulate magic
+Energy,0,0
+/statdata Lets you run through mountains
+HealthRegen,Health,0,1
+/statdata Regrows you into a stronger man
+ManaRegen,Mana,0,1
+/statdata Regrows you into a stronger man
+EnergyRegen,Energy,0,1
+/statdata Regrows you into a stronger man
+Strength,5,Health,5
+/statdata Lets you move mountains.
+Vitality,5,HealthRegen,2
+/statdata Let's you overcome unfavourable odds.
+Intelligence,5,Mana,5
+/statdata Strengthens your brainmuscle.
+Wisdom,5,ManaRegen,2
+/statdata Opens new paths for your future.
+Agility,5,Energy,5
+/statdata Makes your body move more efficiently.
+Dexterity,5,EnergyRegen,2
+/statdata Allows you to run for longer.
+/item Dirt
+/description A common material found on earth
+/texture dirt
+/stats
+construction 1
+/statdata Allows you to place blocks with greater speed

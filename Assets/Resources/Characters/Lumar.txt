@@ -1,0 +1,35 @@
+/id 1
+/first 2
+/next 3
+/id 2
+yo i am lumar
+/Lumar No!! I AM LUMAR!!
+Sorry bruz, just reading your name tag..
+/Lumar You have already insulted my forefathers. I demand you leave.
+/giveitem Lumar's Hat
+/exit
+/id 3
+/Lumar .....
+Are you gonna talk to me??
+/Lumar What do you want?
+I want your soul, Mr Lumar.
+/Lumar .....
+/next 4
+/quest Find Lumar's Hat
+/description Lumar has lost his only friend. Help him find it!
+/rewards Money 5
+/items Lumar's Hat
+/item Lumar's Hat
+/description It appears to be trying to escape it's master
+/id 4
+/noquest 5
+/hascompletedquest 6
+...
+/id 5
+/Lumar Please look for my hat..
+/Lumar Hurry up now pleb...
+/givequest Find Lumar's Hat
+/exit
+/id 6
+/Lumar Well done... My hat is safe now.
+/Lumar The glorious hat shall be passed down for generations.

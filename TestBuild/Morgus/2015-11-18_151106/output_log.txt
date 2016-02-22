@@ -1,0 +1,195 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780M    (ID=0x119f)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.157 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Zeltex\TestBuild\Morgus\Morgus_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Refreshing Inventory Gui: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IsolatedStorageException: Could not find file "C:\Zeltex\TestBuild\Morgus\Morgus_Data\Resources\PlayerSaveFile.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenText (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.LoadCharacter () [0x00000] in <filename unknown>:0 
+  at CharacterSystem.CharacterSaver.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start in CubeTextureMap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player: Seth has entered zone Seth's Zone at 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Refreshing Inventory Gui: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player: Seth has entered zone Seth's Zone (1) at 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Refreshing Inventory Gui: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 210 -> priority: 1 
+  Thread -> id: 27e8 -> priority: 1 
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Zeltex;C:\Zeltex\TestBuild\Morgus;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Marz'
+OS-Version: 10.0.10240 () 0x300-0x1
+C:\Zeltex\TestBuild\Morgus\Morgus.exe:Morgus.exe (009A0000), size: 16949248 (result: 0), SymType: '-exported-', PDB: 'C:\Zeltex\TestBuild\Morgus\Morgus.exe', fileVersion: 5.2.1.29534
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (779F0000), size: 1544192 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.10240.16430
+C:\Windows\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (75A30000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNEL32.DLL', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (757F0000), size: 1531904 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNELBASE.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (759C0000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (75C40000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\RPCRT4.dll:RPCRT4.dll (75C90000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 10.0.10240.16412
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (5EF80000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (74B00000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (74AF0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\msvcrt.dll:msvcrt.dll (74DA0000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.10240.16384
+C:\Windows\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (74A90000), size: 364544 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcryptPrimitives.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\NSI.dll:NSI.dll (75B20000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\USER32.dll:USER32.dll (772F0000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USER32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (77430000), size: 1363968 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 10.0.10240.16390
+C:\Windows\SYSTEM32\ole32.dll:ole32.dll (75D40000), size: 958464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ole32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\combase.dll:combase.dll (77830000), size: 1810432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\combase.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (74A80000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (75970000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHLWAPI.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (74BD0000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ADVAPI32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\SHELL32.dll:SHELL32.dll (75F30000), size: 20701184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHELL32.dll', fileVersion: 10.0.10240.16542
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (751A0000), size: 5095424 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\windows.storage.dll', fileVersion: 10.0.10240.16515
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (75A20000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\shcore.dll:shcore.dll (75E90000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\shcore.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (74C50000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (75F20000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\profapi.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (74D00000), size: 598016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (5B480000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\IMM32.dll:IMM32.dll (75680000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\MSCTF.dll:MSCTF.dll (756D0000), size: 1179648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSCTF.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (73840000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (6FE60000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (65B20000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\DDRAW.dll:DDRAW.dll (5B390000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (701E0000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (73A00000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (73950000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.10240.16391
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (733A0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (777F0000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cfgmgr32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (65B10000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (73790000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINNSI.DLL', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (749C0000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 10.0.10240.16384
+C:\Zeltex\TestBuild\Morgus\Morgus_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'C:\Zeltex\TestBuild\Morgus\Morgus_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\SYSTEM32\PSAPI.DLL:PSAPI.DLL (75010000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PSAPI.DLL', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (737F0000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.10240.16384
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (74830000), size: 479232 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 10.0.10240.16397
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (742E0000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 10.0.10240.16392
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (6FBD0000), size: 2174976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (744B0000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 10.0.10240.16412
+C:\Windows\SYSTEM32\nvwgf2um.dll:nvwgf2um.dll (6ED30000), size: 15306752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\nvwgf2um.dll', fileVersion: 10.18.13.5598
+C:\Windows\SYSTEM32\bcrypt.dll:bcrypt.dll (749F0000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcrypt.dll', fileVersion: 10.0.10240.16384
+C:\Windows\system32\nvspcap.dll:nvspcap.dll (06950000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvspcap.dll', fileVersion: 2.5.14.5
+C:\Windows\SYSTEM32\SETUPAPI.dll:SETUPAPI.dll (74E60000), size: 1724416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SETUPAPI.dll', fileVersion: 10.0.10240.16384
+C:\Windows\system32\nvapi.dll:nvapi.dll (73050000), size: 3248128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvapi.dll', fileVersion: 10.18.13.5598
+C:\Windows\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (6FDF0000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MMDevAPI.DLL', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (746E0000), size: 1318912 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PROPSYS.dll', fileVersion: 7.0.10240.16384
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (5E0A0000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (65AE0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (65CD0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (6CC70000), size: 425984 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.10240.16515
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (6CBA0000), size: 806912 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wintypes.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (65A30000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (65A20000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\dsound.dll:dsound.dll (65510000), size: 548864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dsound.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\clbcatq.dll:clbcatq.dll (775E0000), size: 532480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10240.16384_none_3bccb1ff6bcd1849\comctl32.dll:comctl32.dll (6E550000), size: 2134016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10240.16384_none_3bccb1ff6bcd1849\comctl32.dll', fileVersion: 6.10.10240.16384
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0FD40000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Windows\SYSTEM32\mscms.dll:mscms.dll (6E760000), size: 520192 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\mscms.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (733E0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\icm32.dll:icm32.dll (5C300000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\icm32.dll', fileVersion: 10.0.10240.16384
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (70490000), size: 1306624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 10.0.10240.16384
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00AE2A4C (Morgus) PackTextureAtlasSimple
+0x00E7D310 (Morgus) MeshIntermediateRenderer::RenderMultiple
+0x009E15F6 (Morgus) RectT<float>::Move
+0x009F517A (Morgus) ScriptMapper::~ScriptMapper
+0x009F54B7 (Morgus) ScriptMapper::~ScriptMapper
+0x009FD7F7 (Morgus) Camera::RenderDepthTexture
+0x009FDB46 (Morgus) Camera::UpdateDepthTextures
+0x009FDDD4 (Morgus) Camera::Render
+0x009FE9CE (Morgus) Camera::Render
+0x00A2D3DF (Morgus) AnimationCurveTpl<float>::GetKeyCount
+0x00B7230B (Morgus) UserList::AddUser
+0x00B73133 (Morgus) RectT<int>::Contains
+0x00C15ED2 (Morgus) PlayerMainWndProc
+0x00C17B65 (Morgus) PlayerWinMain
+0x00F8D258 (Morgus) TransferBase::IsSerializingForGameRelease
+0x00FBC1D0 (Morgus) TransferBase::IsSerializingForGameRelease
+0x75A43744 (KERNEL32) BaseThreadInitThunk
+0x77A4A064 (ntdll) RtlSetCurrentTransaction
+0x77A4A02F (ntdll) RtlSetCurrentTransaction
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

@@ -1,0 +1,86 @@
+/id 1
+	/first 4
+	/checkquest Free Matthew
+	/next 12, 3, 2
+
+/id 2
+	/Matthew Thank you! Here's the watch, can you give it to the other person and try to explain the situation?
+	Sure
+	/exit
+
+/id 3
+	/Matthew Please help me get out of here.
+	/exit
+
+/id 4
+	/Matthew Who... Who's there?
+	/next 5, 6
+	Someone looking for something you have
+	That's not important, you've got something I need and I'm here to take it
+
+/id 5
+	/Matthew Please, help me and I'll give you anything you want
+	/next 7
+	I'm looking for the watch you stole from the other person
+
+/id 6
+	/Matthew Please, help me and it's yours
+	/next 8	
+	I need the watch you stole
+
+/id 7
+	/Matthew What? Please, anything but that. I gave that too my spouse, I don't know how that person had it
+	/next 9, 10
+	Huh, funny story, they say that they we're given it by their spouse
+	I don't care, thats what I'm after
+
+/id 8
+	/Matthew Stole? You mean took back, I gave this to my spouse and somehow this person has it.
+	/next 9, 10
+	Huh, funny story, they say that they we're given it by their spouse
+	I don't care, thats what I'm after
+
+/id 9
+	/Matthew What? how about this, you get me out, I'll give you this watch and you smooth things over with the other guy and mention this whole thing?
+	/next 11, 11
+	Deal
+	Whatever…
+
+/id 10
+	/Matthew I can't give it too you, I'm sorry. I'll find some other way out.
+	/exit
+
+/id 11
+	/Matthew Thank you!
+	/givequest Free Matthew
+	/exit
+
+/id 12
+	/Matthew Thanks for getting me out. Have you returned the watch yet?
+	/exit
+	
+/quest Free Matthew
+	/title Free Matthew
+	/description Free Matthew by hacking though the door's access panel. Maybe he'll give you the watch you need after.
+	/items Freedom 1
+	/reward Steves Watch
+	
+/item Boot
+	/description An old, smelly boot.
+	/quantity 15
+	/texture Frostball
+	/stats
+	stench 4
+	footness 5
+	/endstats
+	/buyvalue 3
+	/sellvalue 4
+	
+/item Steves Watch
+	/description A Plain Watch. Not worth much aside from sentimental value.
+	/quantity 1
+	/stats
+	sentimental 50
+	/endstats
+	/buyvalue 0
+	/sellvalue 0

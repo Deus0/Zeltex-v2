@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: fab3cfc529c148e4cae8c29704b6e344
+timeCreated: 1446741699
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: '!ThighMesh'
+    100002: 1_BicepMesh
+    100004: 1_CalfMesh
+    100006: 1_ChestMesh
+    100008: 1_CoreMesh
+    100010: 1_ForearmMesh
+    100012: 1_HandMesh
+    100014: 1_HeadMesh
+    100016: 1_HipsMesh
+    100018: 1_NeckMesh
+    100020: 1_ShoulderMesh
+    100022: Bicep
+    100024: Bicep(mirrored)
+    100026: Calf
+    100028: Calf(mirrored)
+    100030: Chest
+    100032: Core
+    100034: Foot
+    100036: Foot(mirrored)
+    100038: FootMesh
+    100040: Forearm
+    100042: Forearm(mirrored)
+    100044: Hand
+    100046: Hand(mirrored)
+    100048: Head
+    100050: Hip
+    100052: //RootNode
+    100054: Neck
+    100056: Shoulder
+    100058: Shoulder(mirrored)
+    100060: Thigh
+    100062: Thigh(mirrored)
+    400000: '!ThighMesh'
+    400002: 1_BicepMesh
+    400004: 1_CalfMesh
+    400006: 1_ChestMesh
+    400008: 1_CoreMesh
+    400010: 1_ForearmMesh
+    400012: 1_HandMesh
+    400014: 1_HeadMesh
+    400016: 1_HipsMesh
+    400018: 1_NeckMesh
+    400020: 1_ShoulderMesh
+    400022: Bicep
+    400024: Bicep(mirrored)
+    400026: Calf
+    400028: Calf(mirrored)
+    400030: Chest
+    400032: Core
+    400034: Foot
+    400036: Foot(mirrored)
+    400038: FootMesh
+    400040: Forearm
+    400042: Forearm(mirrored)
+    400044: Hand
+    400046: Hand(mirrored)
+    400048: Head
+    400050: Hip
+    400052: //RootNode
+    400054: Neck
+    400056: Shoulder
+    400058: Shoulder(mirrored)
+    400060: Thigh
+    400062: Thigh(mirrored)
+    2300000: '!ThighMesh'
+    2300002: 1_BicepMesh
+    2300004: 1_CalfMesh
+    2300006: 1_ChestMesh
+    2300008: 1_CoreMesh
+    2300010: 1_ForearmMesh
+    2300012: 1_HandMesh
+    2300014: 1_HeadMesh
+    2300016: 1_HipsMesh
+    2300018: 1_NeckMesh
+    2300020: 1_ShoulderMesh
+    2300022: Bicep
+    2300024: FootMesh
+    3300000: '!ThighMesh'
+    3300002: 1_BicepMesh
+    3300004: 1_CalfMesh
+    3300006: 1_ChestMesh
+    3300008: 1_CoreMesh
+    3300010: 1_ForearmMesh
+    3300012: 1_HandMesh
+    3300014: 1_HeadMesh
+    3300016: 1_HipsMesh
+    3300018: 1_NeckMesh
+    3300020: 1_ShoulderMesh
+    3300022: Bicep
+    3300024: FootMesh
+    4300000: FootMesh
+    4300002: 1_CalfMesh
+    4300004: '!ThighMesh'
+    4300006: 1_HeadMesh
+    4300008: 1_NeckMesh
+    4300010: Bicep
+    4300012: 1_HandMesh
+    4300014: 1_ForearmMesh
+    4300016: 1_BicepMesh
+    4300018: 1_ShoulderMesh
+    4300020: 1_ChestMesh
+    4300022: 1_CoreMesh
+    4300024: 1_HipsMesh
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/1_HipsMesh
+        weight: 1
+      - path: Hip/Core
+        weight: 1
+      - path: Hip/Core/1_CoreMesh
+        weight: 1
+      - path: Hip/Core/Chest
+        weight: 1
+      - path: Hip/Core/Chest/1_ChestMesh
+        weight: 1
+      - path: Hip/Core/Chest/Neck
+        weight: 1
+      - path: Hip/Core/Chest/Neck/1_NeckMesh
+        weight: 1
+      - path: Hip/Core/Chest/Neck/Head
+        weight: 1
+      - path: Hip/Core/Chest/Neck/Head/1_HeadMesh
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder/1_ShoulderMesh
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder/Bicep
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder/Bicep/1_BicepMesh
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder/Bicep/Forearm
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder/Bicep/Forearm/1_ForearmMesh
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder/Bicep/Forearm/Hand
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder/Bicep/Forearm/Hand/1_HandMesh
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder(mirrored)
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder(mirrored)/Bicep(mirrored)
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder(mirrored)/Bicep(mirrored)/Forearm(mirrored)
+        weight: 1
+      - path: Hip/Core/Chest/Shoulder(mirrored)/Bicep(mirrored)/Forearm(mirrored)/Hand(mirrored)
+        weight: 1
+      - path: Hip/Thigh
+        weight: 1
+      - path: Hip/Thigh/!ThighMesh
+        weight: 1
+      - path: Hip/Thigh/Calf
+        weight: 1
+      - path: Hip/Thigh/Calf/1_CalfMesh
+        weight: 1
+      - path: Hip/Thigh/Calf/Foot
+        weight: 1
+      - path: Hip/Thigh/Calf/Foot/FootMesh
+        weight: 1
+      - path: Hip/Thigh(mirrored)
+        weight: 1
+      - path: Hip/Thigh(mirrored)/Calf(mirrored)
+        weight: 1
+      - path: Hip/Thigh(mirrored)/Calf(mirrored)/Foot(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

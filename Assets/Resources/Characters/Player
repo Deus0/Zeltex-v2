@@ -1,0 +1,12 @@
+/item Soul
+/stats
+Health 20
+/statdata Lets you not die for longer
+
+/item MarzPower
+/stats
+Big Bang 30
+
+/characterstats
+Health 100 100
+Mana 100 100

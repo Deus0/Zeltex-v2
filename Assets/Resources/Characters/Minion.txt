@@ -1,0 +1,37 @@
+/id 1
+/Minion Yes Sir. Reporting for duty.Carry on.
+
+/characterstats
+Level,1
+/statdata An overall indication of power.
+Experience,0,10
+/statdata Experience is giving for completing quests or slaying monsters.
+Health,0,0
+/statdata Lets you not die for longer
+Mana,0,0
+/statdata Allows you to manapulate magic
+Energy,0,0
+/statdata Lets you run through mountains
+HealthRegen,Health,0,1
+/statdata Regrows you into a stronger man
+ManaRegen,Mana,0,1
+/statdata Regrows you into a stronger man
+EnergyRegen,Energy,0,1
+/statdata Regrows you into a stronger man
+Strength,5,Health,5
+/statdata Lets you move mountains.
+Vitality,5,HealthRegen,2
+/statdata Let's you overcome unfavourable odds.
+Intelligence,5,Mana,5
+/statdata Strengthens your brainmuscle.
+Wisdom,5,ManaRegen,2
+/statdata Opens new paths for your future.
+Agility,5,Energy,5
+/statdata Makes your body move more efficiently.
+Dexterity,5,EnergyRegen,2
+/statdata Allows you to run for longer.
+/endstats
+
+/item Fireball
+/description Magic flows through your veins, controlling it, transforming it into fire, you lunge it at your enemies.
+/texture Burn

@@ -1,0 +1,25 @@
+/id 1
+/Ulogy Yo
+what?..... oh you mean me? Who are you even?
+/Ulogy Yeah you! with the hat!
+oh me..
+/id 2
+/options 3, 4
+/Ulogy How are you?
+Good
+Bad
+/id 3
+/exit
+/openstats
+/Ulogy Oh I see, you are good... That's too bad
+/id 4
+/Ulogy Oh I see, you are bad... That's very good :D
+/id 5
+/Ulogy Then I have a nice quest for ye!
+/openquestlog
+/item Hat
+/stats
+Health 5
+Armor 3
+/quest Talk To Lotus
+/reward Money 5
